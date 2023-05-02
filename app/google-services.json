@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "640536612838",
+    "project_id": "fir-andaroid",
+    "storage_bucket": "fir-andaroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640536612838:android:88329b29b46b6a34031027",
+        "android_client_info": {
+          "package_name": "example.firebasejavafirst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640536612838-69b9329di0bakh7dcttl5rb79v5b4m2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX-Z7F3kg2Ydbi_HxD7SlGutVUjvlOUqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640536612838-69b9329di0bakh7dcttl5rb79v5b4m2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640536612838:android:8f52f739352225fd031027",
+        "android_client_info": {
+          "package_name": "nazmul.firstfirebaseandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640536612838-69b9329di0bakh7dcttl5rb79v5b4m2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX-Z7F3kg2Ydbi_HxD7SlGutVUjvlOUqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640536612838-69b9329di0bakh7dcttl5rb79v5b4m2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
